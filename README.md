@@ -12,4 +12,4 @@ For save it as .png, click on save ingot button. <br>
 ### Download
 OS  | Version
 ------------- | -------------
-[Windows 32bit x64](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/BlackdestinyXX/MinecraftIngotMaker/blob/main/MinecraftIngotMaker_win32_x64.zip)  | 1.0.0
+[Windows 32bit x64](https://github.com/BlackdestinyXX/MinecraftIngotMaker/blob/main/MinecraftIngotMaker_win32_x64.zip)  | 1.0.0
